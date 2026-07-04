@@ -91,4 +91,4 @@ This is architectural, not a typo or bad condition: the notification step presen
 ---
 
 ## git log Screenshot
-![git log](Screenshot%202026-07-04%20at%2012.31.22%20PM.png)
+![git log](Screenshot%202026-07-04%20at%2012.31.22%E2%80%AFPM.png)
